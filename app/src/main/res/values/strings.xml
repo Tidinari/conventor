@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Конвентор</string>
+    <string name="header" translatable="false">Конвентор из рубля в выбранную валюту</string>
+</resources>
